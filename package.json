@@ -25,7 +25,6 @@
     "html-loader": "^0.5.1",
     "html-webpack-inline-svg-plugin": "^0.2.2",
     "html-webpack-plugin": "^2.29.0",
-    "icon-maker-loader": "^0.1.13",
     "jquery": "^3.2.1",
     "markup-inline-loader": "^0.2.2",
     "node-sass": "^4.7.2",
@@ -40,7 +39,7 @@
     "svgo-loader": "^2.1.0",
     "uglifyjs-webpack-plugin": "^1.1.1",
     "url-loader": "^0.5.9",
-    "webpack": "^3.0.0",
+    "webpack": "^3.8.1",
     "webpack-spritesmith": "^0.3.3",
     "webpack-svgstore-plugin": "^4.0.1"
   }
