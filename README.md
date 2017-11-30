@@ -8,3 +8,7 @@ For local server - change ip in package.json
 `npm run start` - run server 
 
 `npm run build` - build app
+
+# license 
+MIT License
+Copyright (c) 2017 Aleksey Makas
