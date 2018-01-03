@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch": "webpack --progress --watch",
-    "start": "webpack-dev-server --watch --hot --host 0.0.0.0",
+    "start": "webpack-dev-server --env --watch --hot --host 0.0.0.0",
     "build": "webpack --env.production"
   },
   "keywords": [],
